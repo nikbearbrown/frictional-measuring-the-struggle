@@ -4,6 +4,8 @@
 
 [Read the preprint](paper/preprint.md) · [How to contribute](CONTRIBUTING.md)
 
+**We're inviting collaborators.** Review one claim, check a source, or take on one of the tasks listed below. You don't need to review the whole paper to help. To join, follow [Getting started](CONTRIBUTING.md#getting-started) in the contributor guide.
+
 ## Abstract
 
 The artifact (the essay, the examination, the project, the recorded performance) has served as the primary evidence of genuine learning for as long as formal education has existed. This evidential relationship rested on a causal assumption: only the process of genuine learning could produce the artifact. Generative AI has broken this assumption. The artifact can now be produced without the process.
@@ -26,7 +28,7 @@ The preprint needs revision before submission. These problems are known and not 
 
 ## How to contribute
 
-Read the [contributor guide](CONTRIBUTING.md). It lists each kind of contribution with where to start and what to send, the rules for this repo, how to submit, and how credit and authorship work.
+Start with [Getting started](CONTRIBUTING.md#getting-started) in the [contributor guide](CONTRIBUTING.md): read the draft or plan, pick one thing to do, and email Nik to be added as a collaborator. The guide lists each kind of contribution with where to start and what to send, the rules for this repo, how to submit, and how credit and authorship work.
 
 - **A quick contribution:** open an issue about one claim, source or decision. You don't need to review the whole paper.
 - **To become an author:** take on a component of the work, help write the paper, approve the final version and agree to be accountable for it. The guide explains each step.
