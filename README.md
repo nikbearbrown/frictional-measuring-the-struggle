@@ -6,7 +6,9 @@
 
 **We're inviting collaborators.** Review one claim, check a source, or take on one of the tasks listed below. You don't need to review the whole paper to help. To join, follow [Getting started](CONTRIBUTING.md#getting-started) in the contributor guide.
 
-## Abstract
+[Current rough draft](paper/rough-draft.md) · [Critique review](critiq-output/frictional-measuring-the-struggle-review.md)
+
+## Historical abstract
 
 The artifact (the essay, the examination, the project, the recorded performance) has served as the primary evidence of genuine learning for as long as formal education has existed. This evidential relationship rested on a causal assumption: only the process of genuine learning could produce the artifact. Generative AI has broken this assumption. The artifact can now be produced without the process.
 
@@ -14,7 +16,8 @@ This paper argues that process friction traces, the behavioral signatures that g
 
 ## Where the draft is
 
-The text is [paper/preprint.md](paper/preprint.md). It is the preprint as published on 2026-07-15, with the wording unchanged. It has not been submitted to a venue.
+[Read the rough draft](paper/rough-draft.md) · [Read the Critique review](critiq-output/frictional-measuring-the-struggle-review.md). This is a working manuscript for author review, not a submission.
+The [original July 15 preprint](paper/preprint.md) remains unchanged. The abstract below the opening links describes that historical draft.
 
 ## What needs to be done
 
